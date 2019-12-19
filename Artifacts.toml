@@ -1,0 +1,81 @@
+[[Htop]]
+arch = "armv7l"
+git-tree-sha1 = "2ec8ff59e3d3519153532d48fb7970fe798def20"
+libc = "glibc"
+os = "linux"
+
+    [[Htop.download]]
+    sha256 = "42a49d22c711668e7b5f157e215933f0d9fba7005421a29ebb0542079cccf634"
+    url = "https://github.com/JuliaBinaryWrappers/Htop_jll.jl/releases/download/Htop-v2.2.0+0/Htop.v2.2.0.arm-linux-gnueabihf.tar.gz"
+[[Htop]]
+arch = "x86_64"
+git-tree-sha1 = "c71d7b2d1789559d709b824c6829563a7b93667c"
+libc = "glibc"
+os = "linux"
+
+    [[Htop.download]]
+    sha256 = "d40e0de399c1111c7a89798fb2da88c77e00cb5a493f6a3529606634ce018650"
+    url = "https://github.com/JuliaBinaryWrappers/Htop_jll.jl/releases/download/Htop-v2.2.0+0/Htop.v2.2.0.x86_64-linux-gnu.tar.gz"
+[[Htop]]
+arch = "aarch64"
+git-tree-sha1 = "39d9cda51af27dd2778e94d8b6f76c3a2e3a4ca7"
+libc = "glibc"
+os = "linux"
+
+    [[Htop.download]]
+    sha256 = "ba76337441d0c064cfbc766f3dcfbf7518ce3c0fc482037afc7fadecc35bb028"
+    url = "https://github.com/JuliaBinaryWrappers/Htop_jll.jl/releases/download/Htop-v2.2.0+0/Htop.v2.2.0.aarch64-linux-gnu.tar.gz"
+[[Htop]]
+arch = "i686"
+git-tree-sha1 = "6be0914343d1cd2a138a0362dc528d19ae9a9690"
+libc = "musl"
+os = "linux"
+
+    [[Htop.download]]
+    sha256 = "7a04d835fb3701d48a832356731924f930fed6b371b98333b414e47ffde866a4"
+    url = "https://github.com/JuliaBinaryWrappers/Htop_jll.jl/releases/download/Htop-v2.2.0+0/Htop.v2.2.0.i686-linux-musl.tar.gz"
+[[Htop]]
+arch = "aarch64"
+git-tree-sha1 = "573e4dd277f2ccb86e880f70bc87112297aa3709"
+libc = "musl"
+os = "linux"
+
+    [[Htop.download]]
+    sha256 = "299caf04603f1fb0f5389abeb9f0891111c4a48687204c840274d75494910228"
+    url = "https://github.com/JuliaBinaryWrappers/Htop_jll.jl/releases/download/Htop-v2.2.0+0/Htop.v2.2.0.aarch64-linux-musl.tar.gz"
+[[Htop]]
+arch = "powerpc64le"
+git-tree-sha1 = "f6558ff1ea0786876296856fd206e07f083f31a4"
+libc = "glibc"
+os = "linux"
+
+    [[Htop.download]]
+    sha256 = "93a34fedf2bd144af2f42c195d8731a8747da3acfab427e5cbe7ce69725b633d"
+    url = "https://github.com/JuliaBinaryWrappers/Htop_jll.jl/releases/download/Htop-v2.2.0+0/Htop.v2.2.0.powerpc64le-linux-gnu.tar.gz"
+[[Htop]]
+arch = "i686"
+git-tree-sha1 = "ecdf96b82f98522a10a1f319410c54e23921647e"
+libc = "glibc"
+os = "linux"
+
+    [[Htop.download]]
+    sha256 = "9533e24a0ea1816232cd21f9b95f904d7bb078a0eab9deffa7c87a269877d6ba"
+    url = "https://github.com/JuliaBinaryWrappers/Htop_jll.jl/releases/download/Htop-v2.2.0+0/Htop.v2.2.0.i686-linux-gnu.tar.gz"
+[[Htop]]
+arch = "x86_64"
+git-tree-sha1 = "59b0fa51fafc800d8416fd9b0ee54a252e6ef5cb"
+libc = "musl"
+os = "linux"
+
+    [[Htop.download]]
+    sha256 = "a4eb8905c2d22607a4583590ea62d698a5b0ba52b0cedc466c87fd5da10892da"
+    url = "https://github.com/JuliaBinaryWrappers/Htop_jll.jl/releases/download/Htop-v2.2.0+0/Htop.v2.2.0.x86_64-linux-musl.tar.gz"
+[[Htop]]
+arch = "armv7l"
+git-tree-sha1 = "5199a27d4bfbc8f1e53f5de36f2081c33eae53ab"
+libc = "musl"
+os = "linux"
+
+    [[Htop.download]]
+    sha256 = "7fd631d04082b238e7d9fa97659c0899ca3526f9aca66e953d889396b940cd2a"
+    url = "https://github.com/JuliaBinaryWrappers/Htop_jll.jl/releases/download/Htop-v2.2.0+0/Htop.v2.2.0.arm-linux-musleabihf.tar.gz"
